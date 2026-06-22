@@ -1,0 +1,12 @@
+gitsource
+minsearch
+python-dotenv
+openai
+requests
+pandas
+numpy
+scikit-learn
+tqdm
+jupyter
+notebook
+toyaikit
