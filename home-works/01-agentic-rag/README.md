@@ -29,11 +29,6 @@ The goal of this homework is to build an Agentic Retrieval-Augmented Generation 
 
 ```text
 01-agentic-rag/
-│
-├── .venv/
-├── requirements.txt
-├── .gitignore
-├── README.md
 ├── src/
 │   ├── load_lessons.py
 │   ├── index_search.py
@@ -42,7 +37,9 @@ The goal of this homework is to build an Agentic Retrieval-Augmented Generation 
 │   ├── chunking.py
 │   ├── rag_chunked.py
 │   └── agent.py
-└── notebooks/
+├── requirements.txt
+├── .gitignore
+└── README.md
 ```
 
 ## Setup
